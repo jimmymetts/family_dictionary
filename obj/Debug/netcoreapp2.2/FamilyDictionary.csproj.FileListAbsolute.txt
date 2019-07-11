@@ -1,0 +1,11 @@
+/Users/metts/WorkSpace-BackEnd/family_dictionary/bin/Debug/netcoreapp2.2/FamilyDictionary.deps.json
+/Users/metts/WorkSpace-BackEnd/family_dictionary/bin/Debug/netcoreapp2.2/FamilyDictionary.runtimeconfig.json
+/Users/metts/WorkSpace-BackEnd/family_dictionary/bin/Debug/netcoreapp2.2/FamilyDictionary.runtimeconfig.dev.json
+/Users/metts/WorkSpace-BackEnd/family_dictionary/bin/Debug/netcoreapp2.2/FamilyDictionary.dll
+/Users/metts/WorkSpace-BackEnd/family_dictionary/bin/Debug/netcoreapp2.2/FamilyDictionary.pdb
+/Users/metts/WorkSpace-BackEnd/family_dictionary/obj/Debug/netcoreapp2.2/FamilyDictionary.csprojAssemblyReference.cache
+/Users/metts/WorkSpace-BackEnd/family_dictionary/obj/Debug/netcoreapp2.2/FamilyDictionary.csproj.CoreCompileInputs.cache
+/Users/metts/WorkSpace-BackEnd/family_dictionary/obj/Debug/netcoreapp2.2/FamilyDictionary.AssemblyInfoInputs.cache
+/Users/metts/WorkSpace-BackEnd/family_dictionary/obj/Debug/netcoreapp2.2/FamilyDictionary.AssemblyInfo.cs
+/Users/metts/WorkSpace-BackEnd/family_dictionary/obj/Debug/netcoreapp2.2/FamilyDictionary.dll
+/Users/metts/WorkSpace-BackEnd/family_dictionary/obj/Debug/netcoreapp2.2/FamilyDictionary.pdb
